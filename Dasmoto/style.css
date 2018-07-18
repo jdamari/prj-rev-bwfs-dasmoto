@@ -1,0 +1,32 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  text-align: center;
+  background-image: url("image/image1.jpeg");
+}
+
+ h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.time {
+  font-family: Helvetica
+  font-weight: bold;
+  color: blue;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+.frame h2 {
+    background-color: lightcoral;
+}
+.paint h2 {
+  background-color: skyblue;
+}
